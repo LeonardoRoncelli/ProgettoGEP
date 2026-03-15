@@ -48,6 +48,9 @@ Requisiti funzionali (funzionalità che il sistema deve avere, servizi che dovr�
 Requisiti non funzionali (vincoli imposti dall’organizzazione e dall’esterno che vanno rispettati): l’interfaccia deve essere intuitiva e responsive, adatta a dispositivi mobili e desktop. I dati utente e i pagamenti dovranno essere crittografati e dovranno essere rispettate le norme GDPR su privacy e gestione dati. L’app deve poter gestire grandi quantità di immagini che dovranno avere un’elevata qualità visiva per garantire stampe nitide.
 Requisiti di dominio (dipendenti dal dominio in cui il sistema deve operare): l’app conterrà informazioni relative al dominio automobilistico, fotografia digitale e stampa e-commerce. Ogni foto avrà la relativa descrizione tecnica dell’automobile raffigurata verificata da fonti ufficiali, devono essere supportati vari formati di stampa, i prezzi variano in base a formato, materiale e risoluzione.
 
+# Sito
+https://auto-gallery-prints.lovable.app
+
 # UML
 <img width="810" height="1273" alt="image" src="https://github.com/user-attachments/assets/c7c73659-adaf-4872-8e8e-16ebea9002d2" />
 
