@@ -22,7 +22,23 @@ Photobox, Cheerz, Displate.
 Ogni auto ha una storia. Noi la incorniciamo.
 
 # Tecnologie
+Frontend & Mobile (Esperienza Utente)
+React Native / Flutter: Per avere un'unica base codice che funzioni perfettamente sia su iOS che su Android (riducendo i costi di sviluppo).
+Next.js: Per il sito web/e-commerce, garantendo velocità estrema e un ottimo posizionamento su Google (SEO).
 
+Backend & Database (Il Cuore Tecnico)
+Node.js / Python: Per gestire l'archiviazione e il recupero delle schede tecniche delle auto in tempo reale.
+PostgreSQL / MongoDB: Database robusti per gestire migliaia di modelli di auto, anni di produzione e specifiche tecniche.
+Cloud Hosting (AWS o Google Cloud): Per garantire che l'app non vada mai offline, anche con migliaia di utenti simultanei.
+
+Integrazioni & Servizi (Automazione)
+Stripe / PayPal: Per la gestione sicura dei pagamenti globali e delle transazioni ricorrenti.
+Print-on-Demand API: Integrazione diretta con i laboratori di stampa (es. Prodigi o Gelato). Quando un cliente ordina, il file viene inviato automaticamente alla stampa senza intervento manuale.
+Algolia: Un motore di ricerca avanzato interno all'app per permettere agli utenti di trovare la loro auto in millisecondi tra migliaia di versioni.
+
+Intelligenza Artificiale & Immagini
+Upscaling AI: Utilizzo di algoritmi per migliorare la risoluzione delle foto storiche, garantendo stampe nitide anche in grandi formati.
+CDN (Content Delivery Network): Per caricare le anteprime delle immagini istantaneamente in tutto il mondo.
 
 # Timestamp JWT
 1758868211
