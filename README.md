@@ -51,6 +51,9 @@ Requisiti di dominio (dipendenti dal dominio in cui il sistema deve operare): lâ
 # Sito
 https://auto-gallery-prints.lovable.app
 
+# Tabella benchmarking
+
+
 # UML
 <img width="810" height="1273" alt="image" src="https://github.com/user-attachments/assets/c7c73659-adaf-4872-8e8e-16ebea9002d2" />
 
