@@ -253,7 +253,8 @@ infrastruttura cloud
 
 
 # Prototipo piattaforma (sito)
-https://auto-gallery-prints.lovable.app
+Accesso diretto alla versione interattiva della piattaforma:
+[![LIVE](https://img.shields.io/badge/PROTOTYPE-LIVE-00C853?style=for-the-badge)](https://auto-gallery-prints.lovable.app)
 
 # UML
 <img width="810" height="1273" alt="image" src="https://github.com/user-attachments/assets/c7c73659-adaf-4872-8e8e-16ebea9002d2" />
