@@ -257,6 +257,8 @@ https://auto-gallery-prints.lovable.app
 # UML
 <img width="810" height="1273" alt="image" src="https://github.com/user-attachments/assets/c7c73659-adaf-4872-8e8e-16ebea9002d2" />
 
+# WBS
+<img width="1024" height="1500" alt="d79e49d8-371c-4f11-8fde-daca0052f40b" src="https://github.com/user-attachments/assets/c6c8ffea-d96b-41c4-bd04-e36a3ed6e97a" />
 
 # Gantt
 <img width="536" height="398" alt="image" src="https://github.com/user-attachments/assets/32c4fb53-d918-4a66-a98f-1625a9db1e2f" />
