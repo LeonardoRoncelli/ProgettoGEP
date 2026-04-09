@@ -137,6 +137,105 @@ In questa sezione vengono dettagliate le necessità degli utenti attraverso il f
 | Amministratore | gestire gli ordini | monitorare acquisti e spedizioni |
 | Sistema → Servizio di stampa | inviare automaticamente i file | avviare la produzione senza intervento manuale |
 
+# Elevator pitch e business model
+Slide 1: Opening Slide
+
+Nome Compagnia: DriveGallery
+Progetto: Catalogo fotografico automobilistico & stampa personalizzata
+Contatto: Leonardo Roncelli
+Tagline: "Ogni auto è arte. Noi la stampiamo."
+
+Slide 2: Il Problema
+
+Molte persone vogliono arredare i propri spazi in modo originale, ma faticano a trovare decorazioni uniche e personalizzate
+le stampe disponibili online sono spesso generiche e poco curate
+manca un collegamento tra passione (auto) e arredamento.
+
+Slide 3: La Soluzione
+
+DriveGallery è una piattaforma che unisce:
+
+passione per le automobili
+fotografia di alta qualità
+stampa personalizzata
+Permette agli utenti di scegliere immagini di auto iconiche e trasformarle in elementi di design per i propri spazi.
+
+Slide 4: Cosa Offriamo
+
+Catalogo fotografico di auto (marca, modello, anno)
+Schede tecniche dettagliate
+Galleria immagini in alta qualità
+Personalizzazione stampa:
+formato
+materiale
+Sistema e-commerce completo
+Spedizione e tracciamento ordine
+
+Slide 5: Dimensione del Mercato
+
+Mercato automotive globale: miliardi di appassionati
+Mercato stampa decorativa in crescita
+E-commerce in continua espansione
+
+DriveGallery si posiziona tra:
+
+automotive passion
+home decor
+digital commerce
+
+Slide 6: Competitors
+Photobox
+Cheerz
+Displate
+
+Questi offrono stampe, ma:
+non sono focalizzati sulle auto
+non offrono schede tecniche
+non creano un’esperienza tematica
+
+Slide 7: Tabella Benchmarking
+
+Esposizione della tabella di benchmarking
+
+Slide 9: Modello di Business
+
+Marketplace e-commerce:
+vendita stampe personalizzate
+margine su ogni ordine
+
+Possibili evoluzioni:
+contenuti premium
+collezioni esclusive
+
+Slide 10: Fatturato
+
+Fonti di ricavo:
+vendita stampe
+
+Obiettivo:
+crescita progressiva con aumento utenti e ordini
+
+Slide 11: Cosa Chiediamo
+
+Cerchiamo:
+investimento iniziale
+supporto nello sviluppo
+partnership strategiche
+
+Slide 12: Percentuale della Società
+
+Offriamo:
+una percentuale della società
+in cambio dell’investimento
+
+Slide 13: Divisione dei Fondi
+
+I fondi saranno utilizzati per:
+sviluppo tecnologico (app e sito)
+marketing e acquisizione utenti
+integrazione servizi stampa
+infrastruttura cloud
+
 # Sito
 https://auto-gallery-prints.lovable.app
 
