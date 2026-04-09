@@ -237,6 +237,18 @@ integrazione servizi stampa
 infrastruttura cloud
 
 <img width="512" height="291" alt="image" src="https://github.com/user-attachments/assets/2f867121-bbd3-4b26-b731-1f29ced2be6a" />
+<img width="512" height="287" alt="image" src="https://github.com/user-attachments/assets/4a750497-e46e-4c98-8484-7baf9e6f2cf1" />
+<img width="513" height="287" alt="image" src="https://github.com/user-attachments/assets/9b5ac293-c5ca-40b3-aeb5-1d3d61e2a1d8" />
+<img width="510" height="292" alt="image" src="https://github.com/user-attachments/assets/a7d28939-cc31-498e-aec7-e93e13873238" />
+<img width="508" height="288" alt="image" src="https://github.com/user-attachments/assets/3896aa10-0e02-4032-a2be-207a244cf707" />
+<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/8aaa8ef3-4a39-4b31-af63-908ebb76e138" />
+<img width="507" height="291" alt="image" src="https://github.com/user-attachments/assets/ca6dc6dd-4e7e-48d0-ad6f-52c0d6dc9c1d" />
+<img width="511" height="292" alt="image" src="https://github.com/user-attachments/assets/83c5c5e5-3afc-493e-9c8f-97603924fe78" />
+<img width="508" height="287" alt="image" src="https://github.com/user-attachments/assets/e84ff482-0a3c-4ffb-822b-15befe8732fb" />
+<img width="512" height="290" alt="image" src="https://github.com/user-attachments/assets/a4557c1b-669e-445b-bb15-6c79d8852232" />
+<img width="507" height="287" alt="image" src="https://github.com/user-attachments/assets/0af2e70e-45cb-44e9-8013-a3ecd85a9842" />
+<img width="507" height="287" alt="image" src="https://github.com/user-attachments/assets/b94588e5-e5ed-4be4-9959-279adb7899d8" />
+<img width="510" height="286" alt="image" src="https://github.com/user-attachments/assets/97fda8ff-7bf9-4eb8-99e1-08ec3cd07de9" />
 
 
 # Sito
