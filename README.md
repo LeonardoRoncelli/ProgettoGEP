@@ -51,6 +51,61 @@ Requisiti funzionali (funzionalità che il sistema deve avere, servizi che dovr�
 Requisiti non funzionali (vincoli imposti dall’organizzazione e dall’esterno che vanno rispettati): l’interfaccia deve essere intuitiva e responsive, adatta a dispositivi mobili e desktop. I dati utente e i pagamenti dovranno essere crittografati e dovranno essere rispettate le norme GDPR su privacy e gestione dati. L’app deve poter gestire grandi quantità di immagini che dovranno avere un’elevata qualità visiva per garantire stampe nitide.
 Requisiti di dominio (dipendenti dal dominio in cui il sistema deve operare): l’app conterrà informazioni relative al dominio automobilistico, fotografia digitale e stampa e-commerce. Ogni foto avrà la relativa descrizione tecnica dell’automobile raffigurata verificata da fonti ufficiali, devono essere supportati vari formati di stampa, i prezzi variano in base a formato, materiale e risoluzione.
 
+# Elenco riassuntivo dei requisiti
+REQUISITI FUNZIONALI
+- Ricerca e navigazione foto auto per:
+marca
+modello
+anno
+categoria
+- Visualizzazione dettagli tecnici del veicolo associato a ogni immagine
+- Galleria immagini con:
+zoom
+visualizzazione a schermo intero
+- Possibilità di:
+salvare immagini
+condividere immagini
+- Filtri avanzati per il catalogo auto
+- Selezione immagine per acquisto stampa
+- Scelta opzioni di stampa:
+formato
+tipo/materiale
+- Calcolo automatico del prezzo finale
+- Aggiunta prodotti al carrello
+- Gestione ordine e checkout
+- Sistema di pagamento sicuro
+- Invio conferma ordine
+- Tracciamento spedizione
+- Registrazione e login utente
+- Accesso e gestione profilo personale
+
+REQUISITI NON FUNZIONALI
+- Interfaccia:
+intuitiva
+responsive (mobile e desktop)
+- Sicurezza:
+crittografia dati utente
+crittografia pagamenti
+- Conformità normativa:
+rispetto GDPR (privacy e gestione dati)
+- Prestazioni:
+gestione grandi quantità di immagini
+- Qualità:
+immagini ad alta risoluzione per stampa
+
+REQUISITI DI DOMINIO
+- Ambiti coperti:
+settore automobilistico
+fotografia digitale
+e-commerce di stampe
+- Ogni immagine deve includere:
+descrizione tecnica verificata da fonti ufficiali
+- Supporto a diversi formati di stampa
+- Prezzi variabili in base a:
+formato
+materiale
+risoluzione
+
 # Sito
 https://auto-gallery-prints.lovable.app
 
