@@ -252,7 +252,7 @@ infrastruttura cloud
 <img width="510" height="286" alt="image" src="https://github.com/user-attachments/assets/97fda8ff-7bf9-4eb8-99e1-08ec3cd07de9" />
 
 
-# Sito
+# Prototipo piattaforma (sito)
 https://auto-gallery-prints.lovable.app
 
 # UML
