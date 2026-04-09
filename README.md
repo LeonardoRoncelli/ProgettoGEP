@@ -107,32 +107,35 @@ materiale
 risoluzione
 
 # User story
-Attore (Come...)	Requisito / Azione (Voglio...)	Beneficio (In modo da...)
-Utente	registrarmi alla piattaforma	creare un account e accedere ai servizi
-Utente	effettuare il login	accedere al mio profilo e alle funzionalità riservate
-Utente	recuperare la password	ripristinare l’accesso in caso di smarrimento
-Utente	gestire il mio profilo	aggiornare i dati personali e le preferenze
-Utente	cercare un’auto nel catalogo	trovare rapidamente immagini tramite filtri (marca, modello, anno, categoria)
-Utente	visualizzare i dettagli di un’auto	conoscere specifiche tecniche e informazioni storiche
-Utente	esplorare la galleria immagini	vedere le foto in alta qualità e a schermo intero
-Utente	ingrandire un’immagine	osservare i dettagli dell’auto
-Utente	salvare un’immagine	conservarla tra i preferiti
-Utente	condividere un’immagine	mostrarla ad altri utenti o amici
-Utente	filtrare le auto	restringere i risultati secondo preferenze specifiche
-Utente	selezionare una foto	prepararla per la stampa
-Utente	scegliere formato e materiale di stampa	personalizzare il prodotto (poster, quadro, cornice, ecc.)
-Utente	visualizzare il prezzo finale	conoscere il costo in base alle opzioni scelte
-Utente	aggiungere un prodotto al carrello	preparare l’acquisto
-Utente	gestire il carrello	modificare o rimuovere prodotti prima dell’acquisto
-Utente → Sistema di pagamento	effettuare il checkout	completare la transazione in modo sicuro
-Utente	ricevere conferma ordine	avere una prova dell’acquisto effettuato
-Utente	tracciare la spedizione	monitorare lo stato della consegna
-Utente	visualizzare i miei ordini	controllare lo storico acquisti
-Amministratore	effettuare il login con privilegi	accedere alle funzionalità amministrative
-Amministratore	gestire il catalogo auto	aggiungere, modificare o rimuovere immagini e dati tecnici
-Amministratore	verificare le informazioni tecniche	garantire l’accuratezza dei dati delle auto
-Amministratore	gestire gli ordini	monitorare acquisti e spedizioni
-Sistema → Servizio di stampa	inviare automaticamente i file	avviare la produzione senza intervento manuale
+In questa sezione vengono dettagliate le necessità degli utenti attraverso il formato standard delle User Stories:
+
+| Attore (Come...) | Requisito / Azione (Voglio...) | Beneficio (In modo da...) |
+|------------------|--------------------------------|----------------------------|
+| Utente | registrarmi alla piattaforma | creare un account e accedere ai servizi |
+| Utente | effettuare il login | accedere al mio profilo e alle funzionalità riservate |
+| Utente | recuperare la password | ripristinare l’accesso in caso di smarrimento |
+| Utente | gestire il mio profilo | aggiornare i dati personali e le preferenze |
+| Utente | cercare un’auto nel catalogo | trovare rapidamente immagini tramite filtri (marca, modello, anno, categoria) |
+| Utente | visualizzare i dettagli di un’auto | conoscere specifiche tecniche e informazioni storiche |
+| Utente | esplorare la galleria immagini | vedere le foto in alta qualità e a schermo intero |
+| Utente | ingrandire un’immagine | osservare i dettagli dell’auto |
+| Utente | salvare un’immagine | conservarla tra i preferiti |
+| Utente | condividere un’immagine | mostrarla ad altri utenti o amici |
+| Utente | filtrare le auto | restringere i risultati secondo preferenze specifiche |
+| Utente | selezionare una foto | prepararla per la stampa |
+| Utente | scegliere formato e materiale di stampa | personalizzare il prodotto (poster, quadro, cornice, ecc.) |
+| Utente | visualizzare il prezzo finale | conoscere il costo in base alle opzioni scelte |
+| Utente | aggiungere un prodotto al carrello | preparare l’acquisto |
+| Utente | gestire il carrello | modificare o rimuovere prodotti prima dell’acquisto |
+| Utente → Sistema di pagamento | effettuare il checkout | completare la transazione in modo sicuro |
+| Utente | ricevere conferma ordine | avere una prova dell’acquisto effettuato |
+| Utente | tracciare la spedizione | monitorare lo stato della consegna |
+| Utente | visualizzare i miei ordini | controllare lo storico acquisti |
+| Amministratore | effettuare il login con privilegi | accedere alle funzionalità amministrative |
+| Amministratore | gestire il catalogo auto | aggiungere, modificare o rimuovere immagini e dati tecnici |
+| Amministratore | verificare le informazioni tecniche | garantire l’accuratezza dei dati delle auto |
+| Amministratore | gestire gli ordini | monitorare acquisti e spedizioni |
+| Sistema → Servizio di stampa | inviare automaticamente i file | avviare la produzione senza intervento manuale |
 
 # Sito
 https://auto-gallery-prints.lovable.app
