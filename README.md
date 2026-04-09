@@ -236,6 +236,9 @@ marketing e acquisizione utenti
 integrazione servizi stampa
 infrastruttura cloud
 
+<img width="512" height="291" alt="image" src="https://github.com/user-attachments/assets/2f867121-bbd3-4b26-b731-1f29ced2be6a" />
+
+
 # Sito
 https://auto-gallery-prints.lovable.app
 
